@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Ibraheem Rehman<br>I'm a sophomore student pursuing a degree in Software Engineering with a passion for building web applications. I'm constantly striving to expand my knowledge and skills in the world of technology. <br> I'm currently focusing on honing my skills in Quality Assurance (QA). I'm learning about different testing methodologies, tools, and best practices to ensure software quality and reliability.<br>
+👋 Hello, I'm Ibraheem Rehman<br>I'm a junior student pursuing a degree in Software Engineering with a passion for building web applications. I'm constantly striving to expand my knowledge and skills in the world of technology. <br> I'm currently focusing on honing my skills in Quality Assurance (QA). I'm learning about different testing methodologies, tools, and best practices to ensure software quality and reliability.<br>
 
 
 ## 🌐 Socials:
