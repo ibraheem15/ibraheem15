@@ -2,7 +2,7 @@
 
 <h3>A passionate Software Engineering Student, Developer, and Tech Enthusiast!</h3>
 
-👋 I'm a junior student pursuing a degree in Software Engineering with a passion for solving complex problems and diving deep into the world of AI.
+👋 I'm a motivated Graduate who did a degree in Software Engineering with a passion for solving complex problems and diving deep into the world of AI.
 
 🌟 I'm constantly expanding my knowledge and skills in the ever-evolving field of technology.
 
